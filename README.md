@@ -17,6 +17,8 @@ harvesttext;
 
 configparser;
 
+progressbar;
+
 if there is no special mark, all version is ok.
 
 ## usage
