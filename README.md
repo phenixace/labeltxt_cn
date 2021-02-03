@@ -21,9 +21,14 @@ if there is no special mark, all version is ok.
 
 ## usage
 
-run "python labeltxt.py"
-choose your source-directory and save-directory
-window would init and show all your txt files and their according ner initial label in the directory by name sequence
+1.run "python labeltxt.py"
 
-press "保存"(save) button to save labeled txt file
-press "上一个"(last)/"下一个"(next) to change previous file shown on the screen
+2.choose your source-directory and save-directory
+
+3.window would init and show all your txt files and their according ner initial label in the directory by name sequence
+
+4.press "保存"(save) button to save labeled txt file
+5.press "上一个"(last)/"下一个"(next) to change previous file shown on the screen
+
+## future version
+I plan to add emotion label function in future versions
