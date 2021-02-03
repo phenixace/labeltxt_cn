@@ -1,1 +1,50 @@
+中 B-LOC
+国 E-LOC
+上 B-LOC
+海 E-LOC
+是 O
+一 O
+座 O
+繁 O
+华 O
+的 O
+城 O
+市 O
 
+任 O
+海 B-PER
+然 E-PER
+老 O
+先 O
+生 O
+在 O
+这 O
+里 O
+拥 O
+有 O
+一 O
+幢 O
+三 O
+层 O
+的 O
+大 O
+别 O
+墅 O
+
+黄 B-LOC
+浦 M-LOC
+江 M-LOC
+江 E-LOC
+水 O
+奔 O
+流 O
+
+汇 O
+入 O
+长 B-LOC
+江 E-LOC
+
+终 O
+到 O
+黄 B-LOC
+海 E-LOC
