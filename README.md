@@ -2,19 +2,19 @@
 Help Researchers easy to label Chinese NER dataset.
 
 ## Envrionment
-python >= 3.7
-java >= 1.8.0
+python >= 3.7;
+java >= 1.8.0;
 
 ## Requirement
-pyqt5
-snownlp
-hanlp
-harvesttext
-configparser
+pyqt5;
+snownlp;
+hanlp;
+harvesttext;
+configparser;
 
 if there is no special mark, all version is ok.
 
-# usage
+## usage
 
 run "python labeltxt.py"
 choose your source-directory and save-directory
