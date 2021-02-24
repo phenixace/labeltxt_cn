@@ -25,7 +25,7 @@ progressbar;
 if there is no special mark, all version is ok.
 
 ## usage
-0.please download my ner model
+0.please download my ner model, I put it in the "save" directory
 
 1.run "python labeltxt.py"
 
