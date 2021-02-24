@@ -11,6 +11,8 @@ pyqt5;
 
 snownlp;
 
+fastNLP;  #I made some changes in the origin code of fastNLP, changes will be shown in the directory FASTNLP
+
 hanlp;
 
 harvesttext;
