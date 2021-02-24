@@ -1,11 +1,15 @@
 from snownlp import SnowNLP
-from harvesttext import HarvestText
+#from harvesttext import HarvestText
+from trial3 import *
 import time
 from progressbar import *
 
- 
+def divide_words(data):
+    s=SnowNLP(data)
+    output= my_model_passage(s.sentences)
+    return output
 
-
+'''
 def divide_words(data):
     s=SnowNLP(data)
     output='' 
@@ -51,3 +55,4 @@ def divide_words(data):
         output=output+"\n"
 
     return output
+'''
