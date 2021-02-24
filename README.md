@@ -11,7 +11,8 @@ pyqt5;
 
 snownlp;
 
-fastNLP;  #I made some changes in the origin code of fastNLP, changes will be shown in the directory FASTNLP
+fastNLP;  #I made some changes in the original codes of fastNLP, changes will be shown in the directory--FASTNLP
+          #You can put the file in dir "fastNLP.core" to replace original "tester.py"
 
 hanlp;
 
@@ -24,6 +25,7 @@ progressbar;
 if there is no special mark, all version is ok.
 
 ## usage
+0.please download my ner model
 
 1.run "python labeltxt.py"
 
